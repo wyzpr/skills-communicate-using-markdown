@@ -4,3 +4,5 @@
 #### Header not very big
 ##### Header... small?
 ###### Would you really call this a header
+
+![Image of interesting looking cat](https://octodex.github.com/images/yaktocat.png)
